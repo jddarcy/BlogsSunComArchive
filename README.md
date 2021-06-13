@@ -215,10 +215,10 @@ ProjectCoin
 [_Recognizing all valid integral strings with regular expressions_](https://web.archive.org/web/20101123150755/http://blogs.sun.com/darcy/entry/regex_for_integral_strings)
 
 * February 03, 2010,
-[_java.util.Objects and friends ](https://web.archive.org/web/20100210085239/http://blogs.sun.com/darcy/entry/java_util_objects_and_friends)
+[_java.util.Objects and friends_](https://web.archive.org/web/20100210085239/http://blogs.sun.com/darcy/entry/java_util_objects_and_friends)
 
 * February 02, 2010,
-[_JDK 7: New Component Delivery Model Delivered ](https://web.archive.org/web/20100206215041/http://blogs.sun.com/darcy/entry/jdk_7_new_component_delivered)
+[_JDK 7: New Component Delivery Model Delivered_](https://web.archive.org/web/20100206215041/http://blogs.sun.com/darcy/entry/jdk_7_new_component_delivered)
 
 * February 01, 2010,
 [_Purging LD_LIBRARY_PATH_](https://web.archive.org/web/20100615185749/http://blogs.sun.com/darcy/entry/purging_ld_library_path)
