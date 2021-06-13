@@ -231,3 +231,82 @@ ProjectCoin
 * November 30, 2009,
 [_Projec Coin: Post-Devoxx Update, closures and exception handling_](https://web.archive.org/web/20091203172927/http://blogs.sun.com/darcy/entry/projec_coin_post_devoxx_closures),
 ProjectCoin
+
+* November 18, 2009,
+[_Project Coin at Devoxx 2009_](https://web.archive.org/web/20091122184238/http://blogs.sun.com/darcy/entry/project_coin_devoxx_2009),
+Devoxx, ProjectCoin
+
+* November 18, 2009,
+[_Project Coin: Milestone 5 Language Features in NetBeans_](https://web.archive.org/web/20091122184243/http://blogs.sun.com/darcy/entry/project_coin_milestone_5_netbeans),
+ProjectCoin
+
+* November 04, 2009,
+[_Project Coin: Anatomy of adding strings in switch to javac_](https://web.archive.org/web/20091108155642/http://blogs.sun.com/darcy/entry/project_coin_string_switch_anatomy),
+ProjectCoin
+
+* October 19, 2009,
+[_OpenJDK 6: b17 regression test results_](https://web.archive.org/web/20100130005426/http://blogs.sun.com/darcy/entry/openjdk_6_b17_regression_tests),
+OpenJDK6
+
+* October 19, 2009,
+[_OpenJDK 6: b17 Source Bundle Published_](https://web.archive.org/web/20091025224038/http://blogs.sun.com/darcy/entry/openjdk_6_b17_source_bundle1),
+OpenJDK6
+
+* September 23, 2009,
+[_Java Posse #279: A View from an Eggshell-Colored Clock Tower_](https://web.archive.org/web/20100302083706/http://blogs.sun.com/darcy/entry/javaposse_279_egg_shell),
+ProjectCoin
+
+* September 14, 2009,
+[_Java Posse #277 Feedback: Still not a view from an ivory tower_](https://web.archive.org/web/20090924023746/http://blogs.sun.com/darcy/entry/javaposse_277_still_not_ivory),
+ProjectCoin
+
+* September 10, 2009,
+[_Unhashing a String_](https://web.archive.org/web/20090925190954/http://blogs.sun.com/darcy/entry/string_unhashing),
+ProjectCoin
+
+* September 04, 2009,
+[_Project Coin: Solidarity with C++ Evolution_](https://web.archive.org/web/20090912042348/http://blogs.sun.com/darcy/entry/projectcoin_solidarity_with_c),
+ProjectCoin
+
+* September 03, 2009,
+[_Java Posse #277 Feedback: Not a view from an ivory tower_](https://web.archive.org/web/20090906191655/http://blogs.sun.com/darcy/entry/javaposse_277_ivory_tower),
+ProjectCoin
+
+* September 02, 2009,
+[_Properties via Annotation Processing_](https://web.archive.org/web/20100410203408/http://blogs.sun.com/darcy/entry/properties_via_annotation_processing),
+AnnotationProcessing
+
+* August 28, 2009,
+[_Project Coin: The Final Five (Or So)_](https://web.archive.org/web/20090901035217/http://blogs.sun.com/darcy/entry/project_coin_final_five),
+ProjectCoin
+
+* August 19, 2009,
+[_Generics and the Mandelbrot set_](https://web.archive.org/web/20090902145254/http://blogs.sun.com/darcy/entry/generics_and_the_mandelbrot_set)
+
+* August 18, 2009,
+[_Project Coin: Elephants, Knapsacks, and Language Features_](https://web.archive.org/web/20090821111152/http://blogs.sun.com/darcy/entry/project_coin_elephants_knapsacks_language),
+ProjectCoin
+
+* August 17, 2009,
+[_JDK Release Types and Compatibility Regions_](https://web.archive.org/web/20090822161938/http://blogs.sun.com/darcy/entry/release_types_compatibility_regions)
+
+* August 13, 2009,
+[_JDK 7: New Component Delivery Model in the Works_](https://web.archive.org/web/20090816192611/http://blogs.sun.com/darcy/entry/jdk7_component_deliver_model)
+
+* August 11, 2009,
+[_JDK 7 Build Prepped for Language Changes_](https://web.archive.org/web/20090906200317/http://blogs.sun.com/darcy/entry/jdk7_build_prepped_language_changes)
+
+* August 10, 2009,
+[_Reflective Operation Exceptions_](https://web.archive.org/web/20090909053725/http://blogs.sun.com/darcy/entry/reflective_operation_exceptions)
+
+* August 07, 2009,
+[_Annotation Processing Build Advice: Set source and class file destinations_](https://web.archive.org/web/20090811142315/http://blogs.sun.com/darcy/entry/annotation_processing_build_advice_set),
+AnnotationProcessing
+
+
+
+
+
+
+
+
