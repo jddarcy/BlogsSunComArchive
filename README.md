@@ -174,9 +174,60 @@ OpenJDK6
 [_OpenJDK 6 Processes_](https://web.archive.org/web/20100331014359/http://blogs.sun.com/darcy/entry/openjdk_6_processes),
 OpenJDK6
 
+* March 15, 2010,
+[_Beware of Covariant Overriding in Interface Hierarchies_](https://web.archive.org/web/20100401230446/http://blogs.sun.com/darcy/entry/covariant_interface_hierarchies)
 
+* March 12, 2010,
+_Last Round Compiling_ (not archived), AnnotationProcessing
 
+* March 12, 2010,
+[_Annotation Processor SourceVersion_](https://web.archive.org/web/20100322195614/http://blogs.sun.com/darcy/entry/annotation_processor_sourceversion),
+AnnotationProcessing
 
+* March 11, 2010,
+_An Assertive Quality in Langtools_ (not archived)
 
+* February 26, 2010,
+[_Notions of Floating-Point Equality_](https://web.archive.org/web/20100304073501/http://blogs.sun.com/darcy/entry/notions_of_floating_point_equality)
 
+* February 24, 2010,
+[_API Design: Identity and Equality_](https://web.archive.org/web/20100228171416/http://blogs.sun.com/darcy/entry/api_design_identity_and_equality)
 
+* February 20, 2010,
+[_Everything Older is Newer Once Again_](https://web.archive.org/web/20100224062224/http://blogs.sun.com/darcy/entry/everything_older_is_newer_once)
+
+* February 17, 2010
+[_OpenJDK 6: b18 regression test results_](https://web.archive.org/web/20100224023127/http://blogs.sun.com/darcy/entry/openjdk_6_b18_regression_tests),
+OpenJDK6
+
+* February 17, 2010,
+[_OpenJDK 6: b18 Source Bundle Published_](https://web.archive.org/web/20100221114019/http://blogs.sun.com/darcy/entry/openjdk_6_b18_source_bundle),
+OpenJDK6
+
+* February 12, 2010,
+[_Finding a bug in FDLIBM pow_](https://web.archive.org/web/20100224235416/http://blogs.sun.com/darcy/entry/finding_a_bug_in_fdlibm)
+
+* February 11, 2010,
+[_Project Coin: Taking a Break for Strings in Switch_](https://web.archive.org/web/20100215134129/http://blogs.sun.com/darcy/entry/project_coin_string_switch_break),
+ProjectCoin
+
+* February 05, 2010,
+[_Recognizing all valid integral strings with regular expressions_](https://web.archive.org/web/20101123150755/http://blogs.sun.com/darcy/entry/regex_for_integral_strings)
+
+* February 03, 2010,
+[_java.util.Objects and friends ](https://web.archive.org/web/20100210085239/http://blogs.sun.com/darcy/entry/java_util_objects_and_friends)
+
+* February 02, 2010,
+[_JDK 7: New Component Delivery Model Delivered ](https://web.archive.org/web/20100206215041/http://blogs.sun.com/darcy/entry/jdk_7_new_component_delivered)
+
+* February 01, 2010,
+[_Purging LD_LIBRARY_PATH_](https://web.archive.org/web/20100615185749/http://blogs.sun.com/darcy/entry/purging_ld_library_path)
+
+* January 25, 2010,
+[_What is the launcher?_](https://web.archive.org/web/20100617070126/http://blogs.sun.com/darcy/entry/what_is_the_launcher)
+
+## 2009
+
+* November 30, 2009,
+[_Projec Coin: Post-Devoxx Update, closures and exception handling_](https://web.archive.org/web/20091203172927/http://blogs.sun.com/darcy/entry/projec_coin_post_devoxx_closures),
+ProjectCoin
