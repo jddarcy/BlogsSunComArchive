@@ -3,6 +3,77 @@ Archive of Joe Darcy's `blogs.sun.com` and `blogs.oracle.com` entries.
 
 ## 2011
 
+* December 02, 2011,
+[_An apt ending draws nigh_](https://web.archive.org/web/20111217164446/blogs.oracle.com/darcy),
+AnnotationProcessing
+
+* November 16, 2011,
+[_Project Coin at Devoxx 2011_](https://web.archive.org/web/20111220122511/http://blogs.oracle.com/darcy/entry/project_coin_at_devoxx_2011),
+ProjectCoin, Devoxx
+
+* October 04, 2011,
+[_Project Coin at JavaOne 2011_](https://web.archive.org/web/20111207172810/http://blogs.oracle.com/darcy/entry/project_coin_javaone2011),
+ProjectCoin, JavaOne
+
+* September 01, 2011,
+[_JDK 7 Changesets Over Time_](https://web.archive.org/web/20111126212249/http://blogs.oracle.com/darcy/entry/jdk_7_changesets)
+
+* August 31, 2011,
+[_Coming soon: JavaOne 2011_](https://web.archive.org/web/20111207023852/http://blogs.oracle.com/darcy/entry/coming_soon_javaone_2011),
+JavaOne
+
+* August 19, 2011,
+[_JDK 7: Small Library Treats_](https://web.archive.org/web/20111207042927/http://blogs.oracle.com/darcy/entry/jdk_7_library_treats)
+
+* August 16, 2011
+[_A Pictorial View of a JSR Progressing through the JCP_](https://web.archive.org/web/20111123115624/http://blogs.oracle.com/darcy/entry/pictorial_jcp)
+
+* July 25, 2011
+[_OSCON: The State of JDK OpenJDK_](https://web.archive.org/web/20111128082916/http://blogs.oracle.com/darcy/entry/oscon_jdk_openjdk_state)
+
+* July 25, 2021,
+[_OSCON: JDK 7 in a Nutshell_](https://web.archive.org/web/20111207030423/http://blogs.oracle.com/darcy/entry/oscon_jdk_7_in_a)
+
+* July 18, 2011,
+[_Project Coin: JSR 334 Finale!_](https://web.archive.org/web/20111207023858/http://blogs.oracle.com/darcy/entry/project_coin_jsr_334_finale),
+ProjectCoin
+
+* July 7, 2011,
+[_Project Coin at the Java 7 Launch_](https://web.archive.org/web/20120106082941/http://blogs.oracle.com/darcy/entry/project_coin_java_7_launch),
+ProjectCoin
+
+* July 5, 2011,
+[_Project Coin: JSR 334 reaches Final Approval Ballot_](https://web.archive.org/web/20111104024649/http://blogs.oracle.com/darcy/entry/project_coin_jsr_334_fab),
+ProjectCoin
+
+* June 28, 2011,
+[_See you at OSCON!_](https://web.archive.org/web/20111104035451/http://blogs.oracle.com/darcy/entry/see_you_at_oscon)
+
+* June 24, 2011,
+[_Project Coin: JSR 334 has a Proposed Final Draft_](https://web.archive.org/web/20111117122813/http://blogs.oracle.com/darcy/entry/project_coin_jsr_334_pfd1),
+ProjectCoin
+
+* May 24, 2011,
+[_Project Coin: Documenation at Rampdown_](https://web.archive.org/web/20111104035306/http://blogs.oracle.com/darcy/entry/project_coin_rampdown_documenation),
+ProjectCoin
+
+* May 13, 2011,
+[_Knuth: "Be an edge, not a node."_](https://web.archive.org/web/20111117132835/http://blogs.oracle.com/darcy/entry/knuth_edges_nodes)
+
+* May 6, 2011,
+[_Project Coin: Diamond and Generic Constructors_](https://web.archive.org/web/20111104035324/http://blogs.oracle.com/darcy/entry/project_coin_diamond_generic_constructors),
+ProjectCoin
+
+* April 28, 2011,
+[_See you on the flip side_](https://web.archive.org/web/20111117122808/http://blogs.oracle.com/darcy/entry/blog_migration)
+
+* April 25, 2011,
+[_JSR 269 Maintenance Review Concludes_](https://web.archive.org/web/20111117132830/http://blogs.oracle.com/darcy/entry/jsr_269_mr_concludes)
+
+* April 25, 2011,
+[_Project Coin: JSR 334 Public Review Approved_](https://web.archive.org/web/20111117132840/http://blogs.oracle.com/darcy/entry/project_coin_jsr_334_pr1),
+ProjectCoin
+
 * April 1, 2011, 
 _Project Coin: Disabling exception suppression_, (not archived)
 
