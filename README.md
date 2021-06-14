@@ -552,3 +552,73 @@ ProjectCoin
 [_FOSDEM 2009: OpenJDK 6 and Project Coin_](https://web.archive.org/web/20090304165523/http://blogs.sun.com/darcy/entry/fosdem_2009_openjdk_6_project),
 ProjectCoin, OpenJDK6
 
+* February 09, 2009,
+[_OpenJDK 6: Mercurial Repositories Available_](https://web.archive.org/web/20090227014628/http://blogs.sun.com/darcy/entry/openjdk_6_mercurial_repositories_available),
+OpenJDK6
+
+* February 09, 2009,
+[_The Three R's of Airplane Maintenance_](https://web.archive.org/web/20090227045536/http://blogs.sun.com/darcy/entry/three_r_s_airplane_maintenance)
+
+* January 27, 2009,
+[_Project Coin: Small Language Change Proposal Form Available_](https://web.archive.org/web/20090130013910/http://blogs.sun.com/darcy/entry/project_coin),
+ProjectCoin
+
+* January 16, 2009,
+[_OpenJDK and the new plugin_](https://web.archive.org/web/20090227083828/http://blogs.sun.com/darcy/entry/openjdk_and_the_new_plugin)
+
+## 2008
+
+* December 23, 2008,
+[_Criteria for desirable small language changes_](https://web.archive.org/web/20090228202517/http://blogs.sun.com/darcy/entry/criteria_for_desirable_small_language),
+ProjectCoin
+
+* December 11, 2008,
+[_Guidance on measuring the size of a language change_](https://web.archive.org/web/20090306005852/http://blogs.sun.com/darcy/entry/guidance_measure_language_change_size),
+ProjectCoin
+
+* December 08, 2008,
+[_OpenJDK 6: Trial Mercurial Repositories Available_](https://web.archive.org/web/20090227171259/http://blogs.sun.com/darcy/entry/openjdk_6_trial_mercurial_repositories),
+OpenJDK6
+
+* December 08, 2008,
+[_Coming Soon: A JSR for small language changes in JDK 7_](https://web.archive.org/web/20090228081742/http://blogs.sun.com/darcy/entry/small_language_changes_jdk_7),
+ProjectCoin
+
+* December 04, 2008,
+[_Hexadecimal Floating-Point Literals_](https://web.archive.org/web/20090404091806/http://blogs.sun.com/darcy/entry/hexadecimal_floating_point_literals)
+
+* December 04, 2008,
+[_Build architectures and managing dependencies_](https://web.archive.org/web/20090406215019/http://blogs.sun.com/darcy/entry/build_architectures_and_managing_dependencies)
+
+* December 03, 2008,
+[_OpenJDK 6 b13 and JCK testing_](https://web.archive.org/web/20090508104848/http://blogs.sun.com/darcy/entry/openjdk_6_b13_and_jck),
+OpenJDK6
+
+* December 03, 2008,
+_OpenJDK 6: Some regression test results for b14_, (not archived)
+
+* December 03, 2008,
+[_OpenJDK 6: Sources for b14 published_](https://web.archive.org/web/20090221003610/http://blogs.sun.com/darcy/entry/openjdk_6_sources_for_b14)
+
+* December 02, 2008,
+[_JavaOne: Slides for "Tips and Tricks" available_](https://web.archive.org/web/20090201075733/http://blogs.sun.com/darcy/entry/javaone_slides_for_tips_and),
+JavaOne
+
+* November 07, 2008,
+_OpenJDK 6: Some regression test results for b13_, (not archived), OpenJDK6
+
+* November 07, 2008,
+_OpenJDK 6: Sources for b13 published_, (not archived), OpenJDK6
+
+
+* November 04, 2008,
+[_OpenJDK 6 Genealogy_](https://web.archive.org/web/20090427163921/http://blogs.sun.com/darcy/entry/openjdk_6_genealogy),
+OpenJDK6
+
+* November 03, 2008,
+[_OpenJDK 6 and 6u10 features_](https://web.archive.org/web/20090221010436/http://blogs.sun.com/darcy/entry/openjdk_6_and_6u10_features),
+OpenJDK6
+
+* October 29, 2008,
+[_Everything Old is New Again_](https://web.archive.org/web/20090402234711/http://blogs.sun.com/darcy/entry/everything_old_is_new_again)
+
