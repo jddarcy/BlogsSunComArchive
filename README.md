@@ -622,3 +622,36 @@ OpenJDK6
 * October 29, 2008,
 [_Everything Old is New Again_](https://web.archive.org/web/20090402234711/http://blogs.sun.com/darcy/entry/everything_old_is_new_again)
 
+* October 02, 2008,
+[_OpenJDK 6: Logistics of Partial Merge with 6u10_](https://web.archive.org/web/20081206003438/http://blogs.sun.com/darcy/entry/openjdk_6_logistics_of_partial),
+OpenJDK6
+
+* September 12, 2008,
+[_OpenJDK 6: Some regression test results for b12_](https://web.archive.org/web/20080919153530/http://blogs.sun.com/darcy/entry/openjdk_6_some_regression_test1),
+OpenJDK6
+
+* September 12, 2008,
+[_OpenJDK 6: Sources for b12 published_](https://web.archive.org/web/20080917115844/http://blogs.sun.com/darcy/entry/openjdk_6_sources_for_b12),
+OpenJDK6
+
+* August 20, 2008,
+_OpenJDK 6: Some more regression test results for b11_, (not archived), OpenJDK6
+
+*  July 17, 2008,
+_OpenJDK 6: Some regression test results for b11_, (not archived), OpenJDK6
+
+* July 15, 2008,
+_OpenJDK 6: Sources for b11 published_, (not archived), OpenJDK6
+
+* June 19, 2008,
+[_OpenJDK 6: Congratulations to IcedTea and Red Hat_](https://web.archive.org/web/20080621025447/http://blogs.sun.com/darcy/entry/openjdk_6_congratulations_to_icedtea),
+OpenJDK6
+
+* June 13, 2008,
+[_Cheesy X-rays_](https://web.archive.org/web/20080620031320/http://blogs.sun.com/darcy/entry/cheesy_x_rays)
+
+* June 13, 2008,
+[_OpenJDK 6: Sources for b10 published_](https://web.archive.org/web/20080621025452/http://blogs.sun.com/darcy/entry/openjdk_6_sources_for_b10),
+OpenJDK6
+
+
