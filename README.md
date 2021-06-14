@@ -1,6 +1,15 @@
 # BlogsSunComArchive
 Archive of Joe Darcy's `blogs.sun.com` and `blogs.oracle.com` entries.
 
+## 2016
+
+* September 20, 2016,
+[_JavaOne 2016: Slides and video for "JDK 9 Language, Tooling, and Library Features"_](https://web.archive.org/web/20170118004553/https://blogs.oracle.com/darcy/entry/javaone2016_jdk9langtoolslibs)
+
+* September 13, 2016,
+[_Project Coin: fully minted_](https://web.archive.org/web/20170118004553/https://blogs.oracle.com/darcy/entry/project_coin_fully_minted1),
+ProjectCoin
+
 ## 2015
 
 * January 25, 2021,
