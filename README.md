@@ -507,4 +507,48 @@ ProjectCoin, JavaOne
 [_Project Coin: The Call for Proposals Phase is Over!_](https://web.archive.org/web/20090404053858/http://blogs.sun.com/darcy/entry/project_coin_call_for_proposals),
 ProjectCion
 
+* March 27, 2009,
+[_Project Coin: Week 4 Update_](https://web.archive.org/web/20090331034252/http://blogs.sun.com/darcy/entry/project_coin_week_4_update),
+ProjectCoin
+
+* March 24, 2009,
+[_A trail of coins_](https://web.archive.org/web/20090401034817/http://blogs.sun.com/darcy/entry/trail_of_coins),
+ProjectCoin
+
+* March 24, 2009,
+[_Project Coin: For further consideration..._](https://web.archive.org/web/20090331044011/http://blogs.sun.com/darcy/entry/project_coin_for_further_consideration),
+ProjectCoin
+
+* March 20, 2009,
+[_Project Coin: Week 3 Update_](https://web.archive.org/web/20090326060337/http://blogs.sun.com/darcy/entry/project_coin_week_3_update),
+ProjectCoin
+
+* March 13, 2009,
+[_Project Coin: Week 2 Update_](https://web.archive.org/web/20090327085142/http://blogs.sun.com/darcy/entry/project_coin_week_2_update),
+ProjectCoin
+
+* March 12, 2009,
+[_Language Model Changes as of JDK 7 Build 50_](https://web.archive.org/web/20090317122545/http://blogs.sun.com/darcy/entry/language_model_jdk_7_b50)
+
+* March 10, 2009,
+[_All about JDK 7_](https://web.archive.org/web/20090318083842/http://blogs.sun.com/darcy/entry/all_about_jdk_7)
+
+* March 08, 2009,
+[_The crested butte of Crested Butte_](https://web.archive.org/web/20090312074211/http://blogs.sun.com/darcy/entry/crested_butte)
+
+* March 06, 2009,
+[_Project Coin: Week 1 Update_](https://web.archive.org/web/20090311005724/http://blogs.sun.com/darcy/entry/project_coin_week_1_update),
+ProjectCoin
+
+* March 01, 2009,
+[_Project Coin: Proposal for Strings in switch_](https://web.archive.org/web/20090304140854/http://blogs.sun.com/darcy/entry/project_coin_strings_in_switch),
+ProjectCoin
+
+* February 27, 2009,
+[_Project Coin Now Live_](https://web.archive.org/web/20090304140849/http://blogs.sun.com/darcy/entry/project_coin_now_live),
+ProjectCoin
+
+* February 13, 2009,
+[_FOSDEM 2009: OpenJDK 6 and Project Coin_](https://web.archive.org/web/20090304165523/http://blogs.sun.com/darcy/entry/fosdem_2009_openjdk_6_project),
+ProjectCoin, OpenJDK6
 
