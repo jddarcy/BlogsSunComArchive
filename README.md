@@ -811,4 +811,29 @@ AnnotationProcessing
 * September 06, 2006,
 _Recommended reading for compiler writers_, (not archived)
 
+* May 14, 2006,
+[_Ask an Expert_](https://web.archive.org/web/20060521065538/http://blogs.sun.com/roller/page/darcy?entry=ask_an_expert),
+JavaOne
 
+* May 14, 2006,
+[_Annotation Processing at JavaOne 2006_](https://web.archive.org/web/20060521065823/http://blogs.sun.com/roller/page/darcy?entry=annotation_processing_at_javaone_2006),
+JavaOne, AnnotationProcessing
+
+* May 11, 2006,
+[_JavaOne 2006 Speaking Schedule_](https://web.archive.org/web/20060521084216/http://blogs.sun.com/roller/page/darcy?entry=speaking_schedule_at_javaone_2006),
+JavaOne
+
+* January 10, 2006,
+_apt mirror API Open Sourced_, (not archived)
+
+## 2005
+
+* October 21, 2005,
+[_JSR 269 in Mustang Build 57_](https://web.archive.org/web/20060214134919/http://blogs.sun.com/roller/page/darcy?entry=jsr_269_in_mustang_build),
+AnnotationProcessing
+
+* August 12, 2005,
+_Annotation Processing Forum Created_, (not archived)
+
+* August 12, 2005,
+_Hello World_, (not archived)
