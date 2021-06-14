@@ -460,10 +460,51 @@ ProjectCoin
 [_Annotation Processing Build Advice: Set source and class file destinations_](https://web.archive.org/web/20090811142315/http://blogs.sun.com/darcy/entry/annotation_processing_build_advice_set),
 AnnotationProcessing
 
+* August 06, 2009,
+[_Build Advice: Set Source, Target, and Encoding_](https://web.archive.org/web/20090811142320/http://blogs.sun.com/darcy/entry/build_advice_set_source_target)
 
+* August 05, 2009,
+[_Source, target, class file version decoder ring_](https://web.archive.org/web/20090809193454/http://blogs.sun.com/darcy/entry/source_target_class_file_version)
 
+* July 27, 2009,
+[_An apt replacement_](https://web.archive.org/web/20090731171524/http://blogs.sun.com/darcy/entry/an_apt_replacement)
 
+* July 21, 2009,
+[_Pick a path, any path_](https://web.archive.org/web/20090725094626/http://blogs.sun.com/darcy/entry/pick_a_path_any_path1)
 
+* July 16, 2009,
+[_Project Coin: Literal Grammar Hackery_](https://web.archive.org/web/20090924032928/http://blogs.sun.com/darcy/entry/project_coin_literal_grammar_hackery),
+ProjectCoin
 
+* July 14, 2009,
+[_Deprecation in the JDK_](https://web.archive.org/web/20090731121102/http://blogs.sun.com/darcy/entry/deprecation_in_the_jdk)
+
+* June 02, 2009,
+[_JavaOne 2009: Project Coin Slides Posted_](https://web.archive.org/web/20090626215707/http://blogs.sun.com/darcy/entry/javaone_2009_project_coin_slides),
+ProjectCoin
+
+* May 27, 2009,
+[_Project Coin: For further consideration, round 2_](https://web.archive.org/web/20090531124639/http://blogs.sun.com/darcy/entry/project_coin_consideration_round_2),
+ProjectCoin
+
+* May 02, 2009,
+[_OpenJDK 6: Regression test results for b16, take 2_](https://web.archive.org/web/20090603083945/http://blogs.sun.com/darcy/entry/openjdk_6_regression_test_b16),
+OpenJDK6
+
+* April 16, 2009,
+[_OpenJDK 6: Regression test results for b16_](https://web.archive.org/web/20090420002129/http://blogs.sun.com/darcy/entry/openjdk_6_regression_test_results),
+OpenJDK6
+
+* April 15, 2009,
+[_OpenJDK 6: b16 Source Bundle Published_](https://web.archive.org/web/20090728071512/http://blogs.sun.com/darcy/entry/openjdk_6_b16_source_bundle),
+OpenJDK6
+
+* April 15, 2009,
+[_JavaOne 2009: Small Language Changes in JDK™ Release 7_](https://web.archive.org/web/20090419164640/http://blogs.sun.com/darcy/entry/javaone_2009_small_language_changes),
+ProjectCoin, JavaOne
+
+* March 31, 2009,
+[_Project Coin: The Call for Proposals Phase is Over!_](https://web.archive.org/web/20090404053858/http://blogs.sun.com/darcy/entry/project_coin_call_for_proposals),
+ProjectCion
 
 
