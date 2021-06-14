@@ -1,6 +1,62 @@
 # BlogsSunComArchive
 Archive of Joe Darcy's `blogs.sun.com` and `blogs.oracle.com` entries.
 
+## 2013
+
+* Febuary 21, 2013,
+[_Functional Interfaces_](https://web.archive.org/web/20130430021406/https://blogs.oracle.com/darcy/entry/functional_interfaces)
+
+## 2012
+
+* October 29, 2012,
+[_JDK bug migration: components and subcomponents_](https://web.archive.org/web/20130412122007/https://blogs.oracle.com/darcy/entry/jira_for_jdk_components_and)
+
+* October 25, 2012,
+[_JDK bug migration: bugs.sun.com now backed by JIRA_](https://web.archive.org/web/20130412125130/https://blogs.oracle.com/darcy/entry/jdk_bug_migration_bugs_sun)
+
+* October 2, 2012,
+[_JavaOne 2012: Slides for "JDK 7 Action" Posted_](https://web.archive.org/web/20130412125156/https://blogs.oracle.com/darcy/entry/javaone_2012_jdk_7_action)
+
+* October 1, 2012,
+[_JavaOne 2012: slides for "Lessons from Mathematics" Posted_](https://web.archive.org/web/20130412125207/https://blogs.oracle.com/darcy/entry/javaone_mathlessons_posted)
+
+* September 29, 2012,
+[_Annotation Processing Virtual Mini-Track at JavaOne 2012_](https://web.archive.org/web/20130412125106/https://blogs.oracle.com/darcy/entry/annotation_processing_javaone_2012),
+AnnotationProcessing
+
+* September 26, 2012,
+[_JDK bug migration milestone: JIRA now the system of record_](https://web.archive.org/web/20130412125100/https://blogs.oracle.com/darcy/entry/milestone_jira_system_of_record)
+
+* June 15, 2012,
+[_My integer overfloweth_](https://web.archive.org/web/20130412101700/https://blogs.oracle.com/darcy/entry/my_integer_overfloweth)
+
+* June 14, 2012,
+[_JavaOne 2012: Lessons from Mathematics_](https://web.archive.org/web/20130412125049/https://blogs.oracle.com/darcy/entry/javaone_math_lessons)
+
+* June 5, 2012,
+[_Moving monarchs and dragons: migrating the JDK bugs to JIRA_](https://web.archive.org/web/20130412121911/https://blogs.oracle.com/darcy/entry/moving_monarchs_dragons)
+
+* April 1, 2012,
+[_Goto for the Java Programming Language_](https://web.archive.org/web/20130412081502/https://blogs.oracle.com/darcy/entry/upcoming_jep)
+
+* March 11, 2012,
+[_Repeating annotations in the works_](https://web.archive.org/web/20130511204703/https://blogs.oracle.com/darcy/entry/repeating_annotations_in_the_works)
+
+* February 10, 2012,
+[_The passing of apt_](https://web.archive.org/web/20130430140840/https://blogs.oracle.com/darcy/entry/the_passing_of_apt),
+AnnotationProcessing
+
+* January 20, 2012,
+[_Unsigned Integer Arithmetic API now in JDK 8_](https://web.archive.org/web/20130426060858/https://blogs.oracle.com/darcy/entry/unsigned_api)
+
+* January 19, 2012,
+[_Project Coin Rocks!_](https://web.archive.org/web/20130430150821/https://blogs.oracle.com/darcy/entry/project_coin_rocks),
+ProjectCoin
+
+* January 10, 2012,
+[_Project Coin Fixes in 7u2_](https://web.archive.org/web/20130511205125/https://blogs.oracle.com/darcy/entry/project_coin_7u2_fixes),
+ProjectCoin
+
 ## 2011
 
 * December 02, 2011,
