@@ -786,4 +786,29 @@ AnnotationProcessing
 [_JDK 6 Build 101 JSR 269 API Changes_](https://web.archive.org/web/20070829045531/http://blogs.sun.com/darcy/entry/jdk_6_build_101_jsr),
 AnnotationProcessing
 
+* October 04, 2006,
+[_What Every Computer Programmer Should Know About Floating-Point Arithmetic, Redux_](https://web.archive.org/web/20070210135132/http://blogs.sun.com/darcy/entry/what_every_computer_programmer_redux)
+
+* October 03, 2006,
+_IEEE 754R Ballot_, (not archived)
+
+* September 26, 2006,
+_Synaptic Sugar_, (not archived)
+
+* September 20, 2006,
+_Bug Tracking Blues_, (not archived)
+
+* September 18, 2006,
+_JSR 269 in proposed final draft_, (not archvied)
+
+* September 18, 2006,
+_Iterating over the codepoints of a String_, (not archvied)
+
+* September 07, 2006,
+[_JDK 6 Build 97 and 98 JSR 269 API Changes_](https://web.archive.org/web/20090904182324/http://blogs.sun.com/darcy/entry/jdk_6_build_97_jsr),
+AnnotationProcessing
+
+* September 06, 2006,
+_Recommended reading for compiler writers_, (not archived)
+
 
