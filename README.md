@@ -3,6 +3,16 @@ Archive of Joe Darcy's `blogs.sun.com` and `blogs.oracle.com` entries.
 
 ## 2013
 
+* December 8, 2013,
+[_JSR 269 Maintenance Review for Java SE 8_](https://web.archive.org/web/20150225044310/https://blogs.oracle.com/darcy/entry/jsr_269_mr_for_java),
+AnnotationProcessing
+
+* May 20, 2013,
+[_javax.lang.model backed by core reflection_](https://web.archive.org/web/20150225052609/https://blogs.oracle.com/darcy/entry/core_backed_lang_model)
+
+* April 14, 2013,
+[_Changing Sources and Moving Targets: Evolving the javac command line_](https://web.archive.org/web/20150225051622/https://blogs.oracle.com/darcy/entry/changing_sources_moving_targets)
+
 * Febuary 21, 2013,
 [_Functional Interfaces_](https://web.archive.org/web/20130430021406/https://blogs.oracle.com/darcy/entry/functional_interfaces)
 
