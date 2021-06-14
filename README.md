@@ -725,3 +725,65 @@ OpenJDK6
 [_Early Bird Kit Update on OpenJDK 6_](https://web.archive.org/web/20080201180053/http://blogs.sun.com/darcy/entry/early_bird_kit_update_on),
 OpenJDK6
 
+* August 28, 2007,
+[_Forward to the Past: Toward OpenJDK 6_](https://web.archive.org/web/20080201104834/http://blogs.sun.com/darcy/entry/forward_to_the_past),
+OpenJDK6
+
+* August 23, 2007,
+[_Joe's Rule of Renaming_](https://web.archive.org/web/20080202150026/http://blogs.sun.com/darcy/entry/joe_s_rule_of_renaming)
+
+* June 12, 2007,
+_Balance of Error_, (not archived)
+
+* June 11, 2007,
+_Relative Ordering of Java and C++_, (not archived)
+
+* June 05, 2007,
+[_Nested, Inner, Member, and Top-Level Classes_](https://web.archive.org/web/20080901233031/http://blogs.sun.com/darcy/entry/nested_inner_member_and_top)
+
+* May 29, 2007,
+[_So you want to change the Java Programming Language..._](https://web.archive.org/web/20080204224348/http://blogs.sun.com/darcy/entry/so_you_want_to_change)
+
+* May 15, 2007,
+[_Mixing-in an Enum_](https://web.archive.org/web/20090201110714/http://blogs.sun.com/darcy/entry/enums_and_mixins)
+
+* May 14, 2007,
+[_Closures, Visitors, and Hedgehogs_](https://web.archive.org/web/20080430121237/http://blogs.sun.com/darcy/entry/closures_visitors_and_hedgehogs)
+
+* March 02, 2007,
+[_Peak Code_](https://web.archive.org/web/20080126103136/http://blogs.sun.com/darcy/entry/peak_code)
+
+* March 01, 2007,
+[_Norms: How to Measure Size_](https://web.archive.org/web/20070311034143/http://blogs.sun.com/darcy/entry/norms_how_to_measure_size)
+
+* February 08, 2007,
+[_Boxing and Caches: Integer.valueOf(int) and friends_](https://web.archive.org/web/20080219032640/http://blogs.sun.com/darcy/entry/boxing_and_caches_integer_valueof)
+
+## 2006
+
+* November 07, 2006,
+[_JSR 269 Passes Final Approval Ballot_](https://web.archive.org/web/20070219213020/http://blogs.sun.com/darcy/entry/jsr_269_passes_approval_ballot),
+AnnotationProcessing
+
+* October 25, 2006,
+[_Javadoc tip: Prefer package-info to package.html_](https://web.archive.org/web/20080204050234/http://blogs.sun.com/darcy/entry/javadoc_tip_prefer_package_info)
+
+* October 24, 2006,
+[_JSR 269 in Final Approval Ballot_](https://web.archive.org/web/20070219212501/http://blogs.sun.com/darcy/entry/jsr_269_final_approval_ballot),
+AnnotationProcessing
+
+* October 24, 2006,
+[_JDK 6 Build 102 JSR 269 API Changes_](https://web.archive.org/web/20070210124539/http://blogs.sun.com/darcy/entry/jdk_6_build_102_jsr),
+AnnotationProcessing
+
+* October 22, 2006,
+[_Javadoc Tip: @code and @literal_](https://web.archive.org/web/20070206141352/http://blogs.sun.com/darcy/entry/javadoc_tip_code_and_literal)
+
+* October 10, 2006,
+[_JSR 269 Interview on Artima_](https://web.archive.org/web/20070126120850/http://blogs.sun.com/darcy/entry/jsr_269_interview_on_artima)
+
+* October 05, 2006,
+[_JDK 6 Build 101 JSR 269 API Changes_](https://web.archive.org/web/20070829045531/http://blogs.sun.com/darcy/entry/jdk_6_build_101_jsr),
+AnnotationProcessing
+
+
