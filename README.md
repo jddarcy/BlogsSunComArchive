@@ -654,4 +654,74 @@ OpenJDK6
 [_OpenJDK 6: Sources for b10 published_](https://web.archive.org/web/20080621025452/http://blogs.sun.com/darcy/entry/openjdk_6_sources_for_b10),
 OpenJDK6
 
+* May 27, 2008,
+[_Indiana Jones: Ants aren't like scorpions!_](https://web.archive.org/web/20080530033825/http://blogs.sun.com/darcy/entry/indiana_jones_ants_aren_t)
+
+* May 16, 2008,
+[_A Twisty Maze of Little Molieres_](https://web.archive.org/web/20080531070948/http://blogs.sun.com/darcy/entry/a_twisty_maze_of_little)
+
+* May 14, 2008,
+[_JavaOne: Writing the next great Java book_](https://web.archive.org/web/20080620183726/http://blogs.sun.com/darcy/entry/writing_the_next_great_java),
+JavaOne
+
+* May 12, 2008,
+[_API Design: Interfaces versus Abstract Classes_](https://web.archive.org/web/20080616095410/http://blogs.sun.com/darcy/entry/api_design_interfaces_versus_abstract)
+
+* May 08, 2008,
+[_JavaOne: Java + You = ..._](https://web.archive.org/web/20080612083322/http://blogs.sun.com/darcy/entry/java_you),
+JavaOne
+
+* May 01, 2008,
+[_OpenJDK: jtreg and regression tests_](https://web.archive.org/web/20080513174729/http://blogs.sun.com/darcy/entry/openjdk_jtreg_and_regression_tests)
+
+* April 25, 2008,
+[_Test where the failures are likely to be_](https://web.archive.org/web/20080531021312/http://blogs.sun.com/darcy/entry/test_where_the_failures_are)
+
+* April 21, 2008,
+[_Compatibly Evolving BigDecimal_](https://web.archive.org/web/20080526095220/http://blogs.sun.com/darcy/entry/compatibly_evolving_bigdecimal)
+
+* April 17, 2008,
+[_Kinds of Compatibility: Source, Binary, and Behavioral_](https://web.archive.org/web/20080705184941/http://blogs.sun.com/darcy/entry/kinds_of_compatibility)
+
+* April 14, 2008,
+_OpenJDK 6: Sources for b09 published_, (not archived), OpenJDK6
+
+* April 04, 2008,
+[_OpenJDK 6: Sources for b07 and b08 published_](https://web.archive.org/web/20081011151252/http://blogs.sun.com/darcy/entry/openjdk_6_sources_for_b07),
+OpenJDK6
+
+* March 13, 2008,
+_OpenJDK 6 and Distros_, (not archived), OpenJDK6
+
+* March 07, 2008,
+_Bugs as good news_, (not archived), OpenJDK6
+
+* Mar 06, 2008,
+[_Matching JDK and JCK Versions_](https://web.archive.org/web/20110812025128/http://blogs.oracle.com/darcy/entry/matching_jdk_and_jck_versions)
+
+* February 29, 2008,
+[_OpenJDK 6: Sources for b06 Published_](https://web.archive.org/web/20080513133439/http://blogs.sun.com/darcy/entry/openjdk_6_sources_for_b06),
+OpenJDK6
+
+* February 25, 2008,
+[_How to cross-compile for older platform versions_](https://web.archive.org/web/20080312001737/http://blogs.sun.com/darcy/entry/how_to_cross_compile_for)
+
+
+* February 18, 2008,
+[_Coming in 2008: Tips and Tricks on Language Features_](https://web.archive.org/web/20090212122459/http://blogs.sun.com/darcy/entry/coming_in_2008_tips_and),
+JavaOne
+
+* February 14, 2008,
+[_OpenJDK 6: The End of the Beginning_](https://web.archive.org/web/20110309033432/http://blogs.sun.com/darcy/entry/openjdk_6_the_end_of),
+OpenJDK6
+
+* January 24, 2008 ,
+[_OpenJDK 6 Project Approved_](https://web.archive.org/web/20080201104839/http://blogs.sun.com/darcy/entry/openjdk_6_project_approved),
+OpenJDK6
+
+## 2007
+
+* December 24, 2007,
+[_Early Bird Kit Update on OpenJDK 6_](https://web.archive.org/web/20080201180053/http://blogs.sun.com/darcy/entry/early_bird_kit_update_on),
+OpenJDK6
 
