@@ -1,6 +1,17 @@
 # BlogsSunComArchive
 Archive of Joe Darcy's `blogs.sun.com` and `blogs.oracle.com` entries.
 
+## 2015
+
+* January 25, 2021,
+[_Advice on removing javac lint warnings_](https://web.archive.org/web/20150322061058/https://blogs.oracle.com/darcy/entry/warnings_removal_advice)
+
+* January 15, 2012,
+[_More concise try-with-resources statements in JDK 9_](https://web.archive.org/web/20150322061058/https://blogs.oracle.com/darcy/entry/concise_twr_jdk9),
+ProjectCoin
+
+
+
 ## 2013
 
 * December 8, 2013,
