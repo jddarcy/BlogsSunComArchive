@@ -505,7 +505,7 @@ ProjectCoin, JavaOne
 
 * March 31, 2009,
 [_Project Coin: The Call for Proposals Phase is Over!_](https://web.archive.org/web/20090404053858/http://blogs.sun.com/darcy/entry/project_coin_call_for_proposals),
-ProjectCion
+ProjectCoin
 
 * March 27, 2009,
 [_Project Coin: Week 4 Update_](https://web.archive.org/web/20090331034252/http://blogs.sun.com/darcy/entry/project_coin_week_4_update),
