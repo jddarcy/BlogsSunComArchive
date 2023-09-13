@@ -824,7 +824,7 @@ JavaOne, AnnotationProcessing
 JavaOne
 
 * January 10, 2006,
-_apt mirror API Open Sourced_, (not archived)
+[_apt mirror API Open Sourced_](https://web.archive.org/web/20130521140429/https://blogs.oracle.com/darcy/entry/apt_mirror_api_open_sourced),
 
 ## 2005
 
